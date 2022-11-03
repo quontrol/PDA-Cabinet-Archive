@@ -1,5 +1,5 @@
-# The ARM Cabinet Archive
-The ARM Cabinet Archive is a collection of applications for Pocket PC &amp; Windows Mobile devices with the ARM architecture.
+# The Mobile Cabinet Archive
+The Mobile Cabinet Archive is a collection of applications for Pocket PC &amp; Windows Mobile devices.
 
 Extra Details:
-The ARM Cabinet Archive which will try to contain most if not almost all existing software for PDA devices running Pocket PC 2002 (WinCE 3.0), Pocket PC 2003[SE] (WinCE 4.x) and Windows Mobile 5 & 6.x.x (WinCE 5.x) on the ARMv4 through ARMv7 architecture.
+The Mobile Cabinet Archive which will try to contain "a lot of" software for HandHeld PCs, Pocket PCs and Palm-Sized PCs with the ARM, MIPS, SH3, and SH4 architecture.
