@@ -3,4 +3,4 @@ The PDA Cabinet Archive is a collection of applications for Windows Mobile Pocke
 
 The first release is scheduled around December of 2022 following sequential updates every month for as long as it takes.
 
-Note: This is not for HPCs (Handheld PCs) Please visit HPC:Factor at https://hpcfactor.com
+Note: This is not mainly for HPCs (HandHeld PCs) Please visit HPC:Factor at https://hpcfactor.com
