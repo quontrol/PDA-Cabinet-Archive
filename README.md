@@ -1,10 +1,10 @@
 # The PDA Cabinet Archive
 
-The PDA Cabinet Archive is a large collection of applications for Windows Mobile Pocket PCs.
+The PDA Cabinet Archive is a large collection of applications for Windows Mobile Pocket PCs and Palm-Sized PCs (Sometimes abbreviated as Palm-PC).
 
-The CABs in this archive are for the ARM architecture but some MIPS, SH3/SH4, and x86 Pocket PC and Palm-Sized PC apps and games are inside this archive.
+The Apps and Games in this archive are for the ARM, MIPS, SH3/SH4, and x86 Pocket PCs and Palm-Sized PCs.
 
-The first release is scheduled around December-ish of 2022 following sequential updates every month.
+The first release is scheduled around December-ish of 2022 following sequential updates every 2 months.
 
 ----
 
